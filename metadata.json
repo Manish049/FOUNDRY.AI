@@ -1,0 +1,7 @@
+{
+  "name": "PromptSync AI",
+  "description": "A voice-first AI Prompt Engineering platform that converts natural speech into structured, high-performance AI prompts using Gemini 2.5 Live and 3.0 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
